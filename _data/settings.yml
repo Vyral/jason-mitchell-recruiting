@@ -19,9 +19,9 @@ client:
     Our goal is to help buyers find the perfect home at the perfect price and sellers sell their homes for top dollar in the shortest amount of time. Our team's proactive and innovative approach to marketing consistently delivers on these goals. As a result, over the last 4 years, we have sold more than 650 homes totaling over $100,000,000.
   market: Fort Worth
   brand: Mitchell Group Real Estate
-  brokerage: Keller Williams
-  address: 2813 South Hulen Street Suite 150<br>Fort Worth, TX 76109
-  phone: 817-896-1874
+  brokerage: eXp Realty
+  address: 5049 Edwards Ranch Rd. - 4th Floor<br>Fort Worth, TX 76109
+  phone: 817-601-1118
   phone_type:
   phone2:
   phone2_type:
@@ -86,8 +86,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#c0952d'
-  theme_color: '#717075'
+  brand_color: '#091d8d'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -107,7 +107,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#c0952d'
+  button_text_color: '#091d8d'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
