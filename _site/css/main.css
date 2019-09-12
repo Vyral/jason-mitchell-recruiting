@@ -2327,12 +2327,18 @@ table tr, table td {
   max-width: 200px; }
 
 .about-container {
-  display: flex;
+  display: inline-block;
   justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: inline-block;
+    text-align: center; }
+
+.about-name {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold; }
 
 .about-text {
   display: flex;
